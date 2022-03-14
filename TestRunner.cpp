@@ -2,7 +2,7 @@
 #include "doctest.h"
 using namespace doctest;
 
-const int MIN_TESTS = 21;
+const int MIN_TESTS = 20;
 
 
 struct ReporterGrader: public ConsoleReporter {
